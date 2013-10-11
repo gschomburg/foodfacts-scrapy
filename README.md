@@ -1,2 +1,2 @@
-scrapy-foodfacts
+foodfacts-scrapy
 ================
